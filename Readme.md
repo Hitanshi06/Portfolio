@@ -22,6 +22,11 @@
 
 ✨ Let’s turn data into decisions! ✨
 
+ ### Profile Views :<br>
+
+<img src="https://profile-counter.deno.dev/Hitanshi06/count.svg" alt="Hitanshi06 :: Visitor's Count" />
+
+
 ---
 
 ## 🌟 Featured Projects
